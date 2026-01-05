@@ -8,4 +8,5 @@ scikit-learn
 matplotlib
 reportlab
 boto3
+keplergl
 apache-airflow-providers-postgres
